@@ -1,0 +1,5 @@
+#compdef git-logger
+
+compdef git-logger=git
+
+return 0

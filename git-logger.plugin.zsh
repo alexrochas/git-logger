@@ -1,0 +1,1 @@
+fpath=( "$PWD"/completions "${fpath[@]}" )
